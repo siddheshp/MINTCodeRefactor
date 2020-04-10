@@ -1,4 +1,4 @@
-# CodeRefactoringEF
+# Code Refactoring
 ## Refactoring an ASP.NET MVC Application
 Using Repository, DI and unit of Work patterns
 
